@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li{
+/* color:gold; */
+}
+
+
+.navArea{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: ;
+    justify-content: space-between;
+    background-color: blanchedalmond;
+    align-items: center;
+    padding-right: 2px;
+
+}
+
+.logoImg{
+    width: 80px;
+}
+
+.navigation li{
+    list-style: none;
+    display: inline;
+    padding: 4px;
+}
+
+.navigation a{
+    text-decoration: none;
+}
+/* 
+.liSam{
+    color:green;
+    overflow: hidden;
+
+
+}
+
+.TextSection{
+    width: 500px;
+    height: 200px;
+    background-color: grey;
+    border: 2px solid red;
+    padding: 25px;
+}
+
+#Chuks{
+    color: purple;
+} */
+
+body{
+    /* background-color: #ededed; */
+    /* background-image:url("https://thumbs.dreamstime.com/b/abstract-autumn-background-beautiful-leaves-texture-34325133.jpg"); */
+
+    /* background-image: url("/Assets/image.jpg");
+    background-repeat: repeat; */
+
+    /* background-image: url("/Assets/tree.png");
+
+    background-repeat: no-repeat;
+    background-position: right top; */
+    /* margin-right: 200px; */
+  
+} 
+
+
+/* .bText{
+    border: 2px  green;
+    border-style:none    ;
+}
+
+.bText{
+    /* margin:50px; */
+    /* margin: 20px 50px 20px 50px;
+    border: 2px solid grey;
+    padding: 50px;
+
+} */
+
+.btn{
+    border-style: none;
+    background-color: blue;
+    color: #fff;
+    width: 300px;
+    height: 30px;
+    border-radius: 12px;
+   margin-left:-50px;
+   padding: 30px;
+} */
+
+/* .btn:hover{
+    background-color: powderblue;
+    cursor: pointer;
+}
+
+
+
+.text{
+    background-color: gold;
+    opacity: 0.9;
+    font-size: 1em;
+    text-decoration: none;
+
+} */
